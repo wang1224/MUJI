@@ -118,4 +118,34 @@
                   padding: 18px 18px 0;
                     }
     }
+
+    .pic{
+        width: 100%;
+        height: auto;
+        display:  flex;
+        align-items: center;
+        justify-content:  center;
+        margin: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+        }
+    .more{
+        width: 170%;
+        height: auto;
+        display:  flex;
+        align-items: center;
+        justify-content:  center;
+        margin: 10px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    .word{
+        width: 25%;
+        height: auto;
+        display:  flex;
+        align-items: center;
+        justify-content:  center;
+        margin-left: 10px;
+    }
 	
