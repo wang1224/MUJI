@@ -135,7 +135,7 @@
         display:  flex;
         align-items: center;
         justify-content:  center;
-        margin: 10px;
+        margin: 0;
         margin-right: 10px;
         margin-left: 10px;
     }
@@ -148,4 +148,112 @@
         justify-content:  center;
         margin-left: 10px;
     }
-	
+
+    .word2{
+        width: 21%;
+        height: auto;
+        display:  flex;
+        align-items: center;
+        justify-content:  center;
+        margin-left: 10px;
+    }
+
+    .word3{
+        width: 89%;
+        height: auto;
+        display:  flex;
+        align-items: row;
+        justify-content:  center;
+    }
+
+    .pic2{
+        width: 90%;
+        height: auto;
+        display:  flex;
+        align-items: center;
+        justify-content:  center;
+        margin: 10px;
+        }
+
+    .pic3{
+        width: 20%;
+        height: auto;
+        display:  flex;
+        align-items: center;
+        justify-content:  center;
+        margin: 10px;
+        }
+
+    .pic4{
+        width: 100%;
+        height: auto;
+        display:  flex;
+        align-items: center;
+        justify-content:  center;
+        margin: 10px;
+        }
+
+    .pic5{
+        width: 96%;
+        height: auto;
+        display:  flex;
+        align-items: center;
+        justify-content:  center;
+        margin: 10px;
+        }
+
+    #main {
+        padding-bottom: 300px;
+        }
+
+    #footer {
+        height: 300px;
+        position: static;
+        margin-top: -300px;
+        background-color: black;
+	    padding:0; 
+        }
+    
+    .word4{
+        width: 76%;
+        height: auto;
+        display:  flex;
+        align-items: row;
+        justify-content:  center;
+        padding-top: 20px;
+        }
+    
+    .line{
+        width: 100%;
+        height: auto;
+        padding-top: 20px;
+    }
+
+    .word5{
+        width: 100%;
+        height: auto;
+        display:  flex;
+        align-items: center;
+        justify-content:  center;
+        margin-left: 10px;
+    }
+    
+    .word6{
+        width: 30%;
+        height: auto;
+        display:  flex;
+        align-items: center;
+        justify-content:  center;
+        margin-left: 10px;
+    }
+
+    a {
+        text-decoration:none;
+        
+    }
+
+    img{
+        display: block;
+    }
+
+    
